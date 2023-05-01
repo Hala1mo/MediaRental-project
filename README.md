@@ -12,4 +12,7 @@ Upadte a Flight information
 Adding new Passenger in a specific Trip by checking the Capacity of the flight
 ![f6](https://user-images.githubusercontent.com/121310040/235445461-39bfb2e1-5d8e-4bc4-919c-8c7260c6f6d6.png)
 ![f7](https://user-images.githubusercontent.com/121310040/235445466-28e2f010-d093-4ae2-815a-9ab78020e1fa.png)
+Cancel a reservation
+![f8](https://user-images.githubusercontent.com/121310040/235445573-4aa7c264-d000-4f87-9fef-047bd8d83d46.png)
+
 
