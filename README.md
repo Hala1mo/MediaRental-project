@@ -14,5 +14,11 @@ Adding new Passenger in a specific Trip by checking the Capacity of the flight
 ![f7](https://user-images.githubusercontent.com/121310040/235445466-28e2f010-d093-4ae2-815a-9ab78020e1fa.png)
 Cancel a reservation
 ![f8](https://user-images.githubusercontent.com/121310040/235445573-4aa7c264-d000-4f87-9fef-047bd8d83d46.png)
+Check if a passenger name on a Trip
+![f9](https://user-images.githubusercontent.com/121310040/235445778-5d8bf0f6-0b91-4cb3-94c3-d5b53b93cf1f.png)
+Information for A specific Passenger
+![f10](https://user-images.githubusercontent.com/121310040/235445896-4bac13ba-e56e-420c-8b37-2f20c01296e1.png)
+![f11](https://user-images.githubusercontent.com/121310040/235445973-8e540064-d00f-4e26-be39-247922f64786.png)
+Thank you.
 
 
