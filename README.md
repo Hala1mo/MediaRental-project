@@ -1,7 +1,7 @@
 # MediaRental-project
 
 ![f1](https://user-images.githubusercontent.com/121310040/235444534-4e94cf92-f6cb-4e19-a22a-e8bb6d4f7845.png)
-Reading Flights information
+# Reading Flights information
 ![f2](https://user-images.githubusercontent.com/121310040/235444846-f199fb42-2f01-4f24-a55e-fa0430170e05.png)
 Reading Passengers information for a specific Trip
 ![f3](https://user-images.githubusercontent.com/121310040/235445116-1f967769-e05f-48ce-9890-ec86018d3a64.png)
